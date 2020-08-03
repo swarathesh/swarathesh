@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... MEAN + Tensorflow.js web app for detecting corona virus
+- 🔭 I’m currently working on ... MEAN + Tensorflow.js web app for detecting and analytics of corona virus
 - 🌱 I’m currently learning ... Cooking from Master Class by Gordon ramsay :spaghetti: :meat_on_bone: :curry: :rice_cracker: :rice:	 :ramen:
 - 👯 I’m looking to collaborate on ... Making a damm good pierogi pizza :pizza: :pizza:
 - 🤔 I’m looking for help with ... Finding jobs :sunglasses:
